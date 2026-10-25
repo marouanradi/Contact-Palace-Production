@@ -2,6 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:;Palace Production;;;
 FN:Palace Production
+ORG:Palace Production
 TEL;TYPE=WORK,VOICE:+212770094306
 EMAIL;TYPE=INTERNET,WORK:contact@palaceprod.ma
 URL:https://palaceprod.ma/
